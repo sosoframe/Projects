@@ -1,0 +1,9 @@
+D:\งาน\TestSetup\TestSetup\bin\Debug\TestSetup.exe.config
+D:\งาน\TestSetup\TestSetup\bin\Debug\TestSetup.exe
+D:\งาน\TestSetup\TestSetup\bin\Debug\TestSetup.pdb
+D:\งาน\TestSetup\TestSetup\obj\Debug\TestSetup.Form1.resources
+D:\งาน\TestSetup\TestSetup\obj\Debug\TestSetup.Properties.Resources.resources
+D:\งาน\TestSetup\TestSetup\obj\Debug\TestSetup.csproj.GenerateResource.Cache
+D:\งาน\TestSetup\TestSetup\obj\Debug\TestSetup.csproj.CoreCompileInputs.cache
+D:\งาน\TestSetup\TestSetup\obj\Debug\TestSetup.exe
+D:\งาน\TestSetup\TestSetup\obj\Debug\TestSetup.pdb
